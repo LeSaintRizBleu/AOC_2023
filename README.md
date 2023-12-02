@@ -1,25 +1,25 @@
-Jour 1  - ⭐⭐
-Jour 2  - ⭐⭐
-Jour 3  - ☆ ☆
-Jour 4  - ☆ ☆
-Jour 5  - ☆ ☆
-Jour 6  - ☆ ☆
-Jour 7  - ☆ ☆
-Jour 8  - ☆ ☆
-Jour 9  - ☆ ☆
-Jour 10 - ☆ ☆
-Jour 11 - ☆ ☆
-Jour 12 - ☆ ☆
-Jour 13 - ☆ ☆
-Jour 14 - ☆ ☆
-Jour 15 - ☆ ☆
-Jour 16 - ☆ ☆
-Jour 17 - ☆ ☆
-Jour 18 - ☆ ☆
-Jour 19 - ☆ ☆
-Jour 20 - ☆ ☆
-Jour 21 - ☆ ☆
-Jour 22 - ☆ ☆
-Jour 23 - ☆ ☆
-Jour 24 - ☆ ☆
-Jour 25 - ☆ ☆
+Day 1  -- ★ ★ <br />
+Day 2  -- ★ ★ <br />
+Day 3  -- ☆ ☆ <br />
+Day 4  -- ☆ ☆ <br />
+Day 5  -- ☆ ☆ <br />
+Day 6  -- ☆ ☆ <br />
+Day 7  -- ☆ ☆ <br />
+Day 8  -- ☆ ☆ <br />
+Day 9  -- ☆ ☆ <br />
+Day 10 - ☆ ☆ <br />
+Day 11 - ☆ ☆ <br />
+Day 12 - ☆ ☆ <br />
+Day 13 - ☆ ☆ <br />
+Day 14 - ☆ ☆ <br />
+Day 15 - ☆ ☆ <br />
+Day 16 - ☆ ☆ <br />
+Day 17 - ☆ ☆ <br />
+Day 18 - ☆ ☆ <br />
+Day 19 - ☆ ☆ <br />
+Day 20 - ☆ ☆ <br />
+Day 21 - ☆ ☆ <br />
+Day 22 - ☆ ☆ <br />
+Day 23 - ☆ ☆ <br />
+Day 24 - ☆ ☆ <br />
+Day 25 - ☆ ☆ <br />
