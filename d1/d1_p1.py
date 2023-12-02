@@ -1,4 +1,4 @@
-f = open("j1.txt", "r")
+f = open("d1/input.txt", "r")
 res = 0
 
 for line in f:

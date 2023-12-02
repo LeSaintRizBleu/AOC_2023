@@ -1,4 +1,4 @@
-f = open("j1.txt", "r")
+f = open("d1/input.txt", "r")
 res = 0
 
 digit = {"one":"one1one", "two":"two2two", "three":"three3three", "four":"four4four", "five":"five5five",
